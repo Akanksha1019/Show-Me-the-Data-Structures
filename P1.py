@@ -128,7 +128,6 @@ our_cache.display()
 print('our_cache.get(9): {}'.format(our_cache.get(9)))  # returns -1
 
 
-
 print('our_cache.set(5,5); our_cache.set(6,6)')
 
 our_cache.set(5, 5)
